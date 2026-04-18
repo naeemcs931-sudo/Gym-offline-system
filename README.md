@@ -27,7 +27,8 @@ Manages inactive members
 
 ## 🚀 Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/naeemcs931-sudo/Gym-offline-system.git
+## git clone 
+https://github.com/naeemcs931-sudo/Gym-offline-system.git
 
 2️⃣ Open Project
 Open in Visual Studio
